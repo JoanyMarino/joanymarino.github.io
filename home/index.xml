@@ -94,6 +94,17 @@ Any attempt at understanding symbiosis must start by recognizing the relationshi
     </item>
     
     <item>
+      <title>Teaching</title>
+      <link>https://joanymarino.github.io/home/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joanymarino.github.io/home/teaching/</guid>
+      <description>I am a Carpentries instructor, and I teach Software Carpentry(https://software-carpentry.org/), Data Carpentry(https://datacarpentry.org/), and Library Carpentry(https://librarycarpentry.org/) workshops. I also contribute in lesson development for Carpentries en Latinoamérica.
+I am part of R-Bar, a scientific programming study group at Memorial University.
+#coder</description>
+    </item>
+    
+    <item>
       <title>Recent Posts</title>
       <link>https://joanymarino.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -109,16 +120,6 @@ Any attempt at understanding symbiosis must start by recognizing the relationshi
       
       <guid>https://joanymarino.github.io/home/projects/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>https://joanymarino.github.io/home/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://joanymarino.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
     </item>
     
     <item>

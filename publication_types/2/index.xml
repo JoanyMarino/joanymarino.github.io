@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Joany Mariño</title>
@@ -7,36 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Joany Mariño</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 -0330</lastBuildDate>
-    
-	<atom:link href="https://joanymarino.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://joanymarino.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First record of Alpheus platycheirus Boone, 1927 (Crustacea, Alpheidae) on the northwest coast of Venezuela</title>
+      <link>https://joanymarino.github.io/publication/lopez_et-al_2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
+      
+      <guid>https://joanymarino.github.io/publication/lopez_et-al_2020/</guid>
+      <description>  </description>
+    </item>
     
     <item>
       <title>Dynamic Energy Budget theory predicts smaller energy reserves in thyasirid bivalves that harbour symbionts</title>
       <link>https://joanymarino.github.io/publication/marino-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0330</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
       
       <guid>https://joanymarino.github.io/publication/marino-2019/</guid>
-      <description>   Schematic representation of the DEB-abj model </description>
+      <description>  </description>
     </item>
     
     <item>
       <title>Composition and abundance of decapod crustaceans in mixed seagrass meadows in the Paraguaná Peninsula, Venezuela</title>
       <link>https://joanymarino.github.io/publication/marino-2018/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 -0330</pubDate>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
       
       <guid>https://joanymarino.github.io/publication/marino-2018/</guid>
-      <description>   Non-metric multidimensional scaling ordination (NMDS) for the abundance of decapods associated with two mixed seagrass meadows at the Paraguan&amp;aacute; Peninsula, Falc&amp;oacute;n State, Venezuela </description>
+      <description>  </description>
     </item>
     
     <item>
       <title>First record of Dondice parguerensis (Mollusca: Favorinidae) in Venezuela</title>
       <link>https://joanymarino.github.io/publication/marino-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0330</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://joanymarino.github.io/publication/marino-2011/</guid>
-      <description>   Dondice parguerensis from Venezuela </description>
+      <description>  </description>
     </item>
     
   </channel>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manuel Caballer on Joany Mariño</title>
@@ -7,18 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Joany Mariño</copyright>
-    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 -0330</lastBuildDate>
-    
-	<atom:link href="https://joanymarino.github.io/authors/manuel-caballer/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0100</lastBuildDate><atom:link href="https://joanymarino.github.io/authors/manuel-caballer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First record of Dondice parguerensis (Mollusca: Favorinidae) in Venezuela</title>
       <link>https://joanymarino.github.io/publication/marino-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 -0330</pubDate>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
       
       <guid>https://joanymarino.github.io/publication/marino-2011/</guid>
-      <description>   Dondice parguerensis from Venezuela </description>
+      <description>  </description>
     </item>
     
   </channel>

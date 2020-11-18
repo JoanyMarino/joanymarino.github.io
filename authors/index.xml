@@ -1,102 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Joany Mariño</title>
+    <title>Authors | Joany Mariño</title>
     <link>https://joanymarino.github.io/authors/</link>
-    <description>Recent content in Authors on Joany Mariño</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© Joany Mariño</copyright>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0200</lastBuildDate><atom:link href="https://joanymarino.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Beatriz López-Sánchez</title>
-      <link>https://joanymarino.github.io/authors/beatriz-l%C3%B3pez-s%C3%A1nchez/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/beatriz-l%C3%B3pez-s%C3%A1nchez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Joany Mariño</title>
-      <link>https://joanymarino.github.io/authors/joany-mari%C3%B1o/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/joany-mari%C3%B1o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jonathan Vera-Caripe</title>
-      <link>https://joanymarino.github.io/authors/jonathan-vera-caripe/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/jonathan-vera-caripe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Daniela Mendoza</title>
-      <link>https://joanymarino.github.io/authors/m.-daniela-mendoza/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0200</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/m.-daniela-mendoza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amy Hurford</title>
-      <link>https://joanymarino.github.io/authors/amy-hurford/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/amy-hurford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starrlight Augustine</title>
-      <link>https://joanymarino.github.io/authors/starrlight-augustine/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/starrlight-augustine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Suzanne C. Dufour</title>
-      <link>https://joanymarino.github.io/authors/suzanne-c.-dufour/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/suzanne-c.-dufour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>María Daniela Mendoza</title>
-      <link>https://joanymarino.github.io/authors/mar%C3%ADa-daniela-mendoza/</link>
-      <pubDate>Thu, 01 Mar 2018 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/mar%C3%ADa-daniela-mendoza/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Edixon Farfán</title>
-      <link>https://joanymarino.github.io/authors/edixon-farf%C3%A1n/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/edixon-farf%C3%A1n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manuel Caballer</title>
-      <link>https://joanymarino.github.io/authors/manuel-caballer/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/authors/manuel-caballer/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://joanymarino.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Joany Mariño</copyright>
+    <image>
+      <url>https://joanymarino.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://joanymarino.github.io/authors/</link>
+    </image>
     
   </channel>
 </rss>

@@ -1,57 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Joany Mariño</title>
+    <title>Tags | Joany Mariño</title>
     <link>https://joanymarino.github.io/tags/</link>
-    <description>Recent content in Tags on Joany Mariño</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© Joany Mariño</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0100</lastBuildDate><atom:link href="https://joanymarino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AmP</title>
-      <link>https://joanymarino.github.io/tags/amp/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/tags/amp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chemosymbiosis</title>
-      <link>https://joanymarino.github.io/tags/chemosymbiosis/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/tags/chemosymbiosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ecophysiology</title>
-      <link>https://joanymarino.github.io/tags/ecophysiology/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/tags/ecophysiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mixotrophy</title>
-      <link>https://joanymarino.github.io/tags/mixotrophy/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/tags/mixotrophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seasonality</title>
-      <link>https://joanymarino.github.io/tags/seasonality/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://joanymarino.github.io/tags/seasonality/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://joanymarino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Joany Mariño</copyright>
+    <image>
+      <url>https://joanymarino.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://joanymarino.github.io/tags/</link>
+    </image>
     
   </channel>
 </rss>

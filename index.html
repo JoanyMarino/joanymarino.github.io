@@ -65,6 +65,9 @@
 
   
   
+  
+  <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -202,9 +205,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -251,8 +254,6 @@
 
 
   
-  
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   
 
   
@@ -1907,40 +1908,13 @@ a scientific programming study group at Memorial University.</p>
 
   
 
-    
-    
-      
-    
-
-    <div class="mb-3">
-      <form name="contact" method="POST" netlify netlify-honeypot="welcome-bot" data-netlify-recaptcha="true">
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputName">Name</label>
-          <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
-        </div>
-        <div class="form-group form-inline">
-          <label class="sr-only" for="inputEmail">Email</label>
-          <input type="email" name="email" class="form-control w-100" id="inputEmail" placeholder="Email" required>
-        </div>
-        <div class="form-group">
-          <label class="sr-only" for="inputMessage">Message</label>
-          <textarea name="message" class="form-control" id="inputMessage" rows="5" placeholder="Message" required></textarea>
-        </div>
-        
-          <div class="d-none">
-            <label>Do not fill this field unless you are a bot: <input name="welcome-bot"></label>
-          </div>
-          
-            <div class="form-group" data-netlify-recaptcha="true"></div>
-          
-        
-        <button type="submit" class="btn btn-outline-primary px-3 py-2">Send</button>
-      </form>
-    </div>
-  
-
   <ul class="fa-ul">
 
+    
+    <li>
+      <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+      <span id="person-email"><a href="mailto:jmarinocoron@mun.ca">jmarinocoron@mun.ca</a></span>
+    </li>
     
 
     
@@ -1956,11 +1930,6 @@ a scientific programming study group at Memorial University.</p>
 
     
 
-    
-    <li>
-      <i class="fa-li fas fa-clock fa-2x" aria-hidden="true"></i>
-      <span><br></span>
-    </li>
     
 
     
@@ -2131,18 +2100,6 @@ a scientific programming study group at Memorial University.</p>
 
     
     
-    
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
     
 
     
